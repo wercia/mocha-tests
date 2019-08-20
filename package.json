@@ -1,7 +1,8 @@
 {
   "scripts": {
     "test": "mocha test",
-    "test:coverage": "nyc npm test"
+    "test:coverage": "nyc npm test",
+    "success": "cowsay"
   },
   "dependencies": {
     "mocha": "^6.2.0",
